@@ -1,0 +1,14 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = _3
+<<<<<<< HEAD:3/obj/Debug/net6.0/3.GeneratedMSBuildEditorConfig.editorconfig
+build_property.ProjectDir = g:\GeekBrains\C-GB\3\
+=======
+build_property.ProjectDir = d:\GB\C# семинар\Seminar1\3\
+>>>>>>> 29b52fd0f158f38d4374e8ae510bd493d8fb1490:Seminar1/3/obj/Debug/net6.0/3.GeneratedMSBuildEditorConfig.editorconfig
