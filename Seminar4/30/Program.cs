@@ -10,7 +10,7 @@ int[] GetBinaryArray(int size){
     int[] result = new int[size];//Формируем новый массив где size-кол во элементов
     for(int i = 0; i < size; i++)
     {
-        result[i] = new Random().Next(2);//на каждый элемент радом записываем рандомное число 0 или 1(двйока не учитывается)
+        result[i] = new Random().Next(2);//на каждый элемент радом записываем рандомное число 0 или 1(двойка не учитывается)
     }
     return result;
 }
