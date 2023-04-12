@@ -20,6 +20,7 @@ Console.WriteLine($"Количество элементов в отрезке о
 int[] GetArray(int size, int minValue, int maxValue)////Создаём массив 123 элемент от 0 до 200
 {
     int[] res = new int[size];
+    
     for(int i = 0; i < size; i++)
     {
         res[i] = new Random().Next(minValue,maxValue + 1);
