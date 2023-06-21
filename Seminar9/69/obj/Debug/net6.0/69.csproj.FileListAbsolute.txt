@@ -1,0 +1,15 @@
+D:\GB\C-GB\Seminar9\69\bin\Debug\net6.0\69.exe
+D:\GB\C-GB\Seminar9\69\bin\Debug\net6.0\69.deps.json
+D:\GB\C-GB\Seminar9\69\bin\Debug\net6.0\69.runtimeconfig.json
+D:\GB\C-GB\Seminar9\69\bin\Debug\net6.0\69.dll
+D:\GB\C-GB\Seminar9\69\bin\Debug\net6.0\69.pdb
+D:\GB\C-GB\Seminar9\69\obj\Debug\net6.0\69.csproj.AssemblyReference.cache
+D:\GB\C-GB\Seminar9\69\obj\Debug\net6.0\69.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C-GB\Seminar9\69\obj\Debug\net6.0\69.AssemblyInfoInputs.cache
+D:\GB\C-GB\Seminar9\69\obj\Debug\net6.0\69.AssemblyInfo.cs
+D:\GB\C-GB\Seminar9\69\obj\Debug\net6.0\69.csproj.CoreCompileInputs.cache
+D:\GB\C-GB\Seminar9\69\obj\Debug\net6.0\69.dll
+D:\GB\C-GB\Seminar9\69\obj\Debug\net6.0\refint\69.dll
+D:\GB\C-GB\Seminar9\69\obj\Debug\net6.0\69.pdb
+D:\GB\C-GB\Seminar9\69\obj\Debug\net6.0\69.genruntimeconfig.cache
+D:\GB\C-GB\Seminar9\69\obj\Debug\net6.0\ref\69.dll
